@@ -27,7 +27,7 @@ function renderOrders(orders) {
       <div class="empty-orders">
         <div class="empty-text">You don't have any orders yet</div><br>
         <div class="empty-text">Start shopping to find something you love!</div><br>
-        <a href="amazon.html" class="buy-again-button button-primary">Start shopping</a>
+        <a href="index.html" class="buy-again-button button-primary">Start shopping</a>
       </div>
     `;
     return;
